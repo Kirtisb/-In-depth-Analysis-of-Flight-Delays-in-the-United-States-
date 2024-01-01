@@ -1,0 +1,4 @@
+Flight delay is a serious and widespread problem in the United States. Increasing flight delays place a significant strain on the US air travel system and cost airlines, passengers, and society at many billions of dollars each year. 
+This project summarizes the findings from airline.csv file focusing on data from October,2014. The data contained in the file (airline.csv) has been extracted from the Tran Stats data library. 
+I have tried to analyze the data and built a report to highlight the trends observed in delays of flights, number of flights for that month, comparison between then different delays etc.
+Using R language we are able to extract the key findings from the dataset and represent it in form of different interactive charts and graphs which helps in better understanding of the data file. 
